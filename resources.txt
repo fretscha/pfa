@@ -1,0 +1,6 @@
+
+http://fortawesome.github.io/Font-Awesome/
+https://select2.github.io/
+http://morrisjs.github.io/morris.js/
+https://datatables.net/
+https://datatables.net/extensions/colvis/

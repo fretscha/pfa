@@ -1,0 +1,25 @@
+{
+  "name": "pfa",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frederic Tschannen",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "connect-livereload": "latest",
+    "grunt": "latest",
+    "grunt-bg-shell": "latest",
+    "grunt-bower-task": "latest",
+    "grunt-concat": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-install-dependencies": "latest",
+    "load-grunt-tasks": "latest",
+    "time-grunt": "latest"
+  }
+}
